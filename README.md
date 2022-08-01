@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif" width=30px> , I am Zane Bosa
+### Hi there <img src="https://media.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif" width=32px> , I am Zane Bosa!
 
 <!--
 **ZaneBosa/ZaneBosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
