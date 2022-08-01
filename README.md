@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://giphy.com/embed/qlOso7alCUTiAX7aG5" width=30px> , I am Zane Bosa
 
 <!--
 **ZaneBosa/ZaneBosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
