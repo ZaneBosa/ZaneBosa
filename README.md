@@ -51,11 +51,20 @@ https://www.linkedin.com/in/zane-bosa/
 I see similarities between my passion for coding and my hobby. Sailing isn't about luxury yachts, millionaires, and glamour—I'm breaking stereotypes here. 
 Instead:
 
-- ![#800000](https://via.placeholder.com/15/800000/000000?text=+) It takes a desire to try, learn, and train.
-- ![#008080](https://via.placeholder.com/15/008080/000000?text=+) Adaptation to different and tough conditions is essential.
-- ![#ff8c00](https://via.placeholder.com/15/ff8c00/000000?text=+) Self-discipline is crucial for achieving higher accuracy in team performance.
-- ![#006400](https://via.placeholder.com/15/006400/000000?text=+) Knowledge transfer is integral.
-- ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) Setting new goals and pursuing them while enjoying the process.
+- ⛵️ **Windward Spirit:** It takes a desire to try, learn, and train.
+- ⚓️ **Adaptability:** Adaptation to different and tough conditions is essential.
+- 🌊 **Nautical Discipline:** Self-discipline is crucial for achieving higher accuracy in team performance.
+- 📚 **Seafaring Wisdom:** Knowledge transfer is integral.
+- 🎯 **Charting New Courses:** Setting new goals and pursuing them while enjoying the process.
+
+
+
+
+
+
+
+
+
 
 
 
