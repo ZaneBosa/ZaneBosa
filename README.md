@@ -8,12 +8,14 @@ I am a self-motivated professional with meticulous attention to detail and analy
 
 
 ╭────────────────── Languages & Frameworks ──────────────────╮
+
 │            PHP                  JavaScript/TypeScript       │
 │            SQL                  HTML & CSS                  │
 │            SWIFT                Laravel, Yii2, Next.js      │
 ╰────────────────────────────────────────────────────╯
 
 ╭───────────────── Tools & Technologies ─────────────────╮
+
 │         API Development            JIRA, Confluence       │
 │         Salesforce                 Git                    │
 │         Figma                      Miro, Lucidchart       │
