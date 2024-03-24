@@ -7,20 +7,22 @@ My diverse background covers software development, project management, and accou
 I am a self-motivated professional with meticulous attention to detail and analytical thinking. Described as diligent, tolerant, and hard-working, I am known for my high level of responsibility and a good sense of humor. My versatile personality makes me a valuable team member, and I am equally adept at working efficiently on my own to achieve set goals.
 
 
-╭────────────────── Languages & Frameworks ──────────────────╮
+### Languages & Frameworks:
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) PHP
+- ![#c0c0c0](https://via.placeholder.com/15/c0c0c0/000000?text=+) JavaScript/TypeScript
+- ![#008000](https://via.placeholder.com/15/008000/000000?text=+) SQL
+- ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) HTML & CSS
+- ![#800080](https://via.placeholder.com/15/800080/000000?text=+) SWIFT
+- ![#ff8c00](https://via.placeholder.com/15/ff8c00/000000?text=+) Laravel, Yii2, Next.js
 
-│            PHP                  JavaScript/TypeScript       │
-│            SQL                  HTML & CSS                  │
-│            SWIFT                Laravel, Yii2, Next.js      │
-╰────────────────────────────────────────────────────╯
-
-╭───────────────── Tools & Technologies ─────────────────╮
-
-│         API Development            JIRA, Confluence       │
-│         Salesforce                 Git                    │
-│         Figma                      Miro, Lucidchart       │
-│         Unit & Integration Testing                        │
-╰────────────────────────────────────────────────────╯
+### Tools & Technologies:
+- ![#ff1493](https://via.placeholder.com/15/ff1493/000000?text=+) REST API Development
+- ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) JIRA, Confluence
+- ![#228b22](https://via.placeholder.com/15/228b22/000000?text=+) Salesforce
+- ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) Git
+- ![#ff69b4](https://via.placeholder.com/15/ff69b4/000000?text=+) Figma
+- ![#4169e1](https://via.placeholder.com/15/4169e1/000000?text=+) Miro, Lucidchart
+- ![#000080](https://via.placeholder.com/15/000080/000000?text=+) Unit & Integration Testing
 
 
 ---
