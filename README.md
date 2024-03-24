@@ -2,12 +2,18 @@
 
 ---
 
-Consider me as a future rising star in software development, currently taking advanced baby steps in the backend development. Proud to announce that **my current toolbox** consists of these friends: 
+My diverse background covers software development, project management, and accounting, equipping me with a clear project oversight, essential analytical skills, and a deep understanding of business processes.
 
-<img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width=40px>  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width=40px>   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=40px>  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" width=30px>  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width=30px>   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width=30px>  <img src="https://blogs.sap.com/wp-content/uploads/2020/05/1330-rest-api-outline.gif" width=33px>  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width=40px> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" width=30px>
+I am a self-motivated professional with meticulous attention to detail and analytical thinking. Described as diligent, tolerant, and hard-working, I am known for my high level of responsibility and a good sense of humor. My versatile personality makes me a valuable team member, and I am equally adept at working efficiently on my own to achieve set goals.
 
-Also: MVC, SOLID & design patterns (KISS, DRY etc.).
-
+╭─────────────── SQL ───────────────╮
+│        PHP        API Development       │
+│    Javascript/Typescript    HTML & CSS   │
+│     JIRA, Confluence      Figma         │
+│ Miro, Lucidchart      Salesforce       │
+│              SWIFT              Unit & Integration Testing       │
+│        Laravel, Yii2, Next.js        Git         │
+╰───────────────────────────╯
 ---
 
 **My latest projects with API:**
@@ -31,11 +37,12 @@ https://www.linkedin.com/in/zane-bosa/
 
 ![Untitled design](https://user-images.githubusercontent.com/98663078/182148847-df5f22d1-a06a-427e-a311-5ee1a1adcd99.gif)
 
-I find some similarities in my passion for coding with my hobby. Sailing isn't about luxury yachts, millionaires, and lots of glamour <-- destroying some stereotypes over here
-- it takes a desire to try, learn and train
-- adapt to different and tough conditions
-- improve self-discipline for higher accuracy in team performance
-- knowledge transfer
-- set new goals and go for them, meanwhile enjoying the process
+I see similarities between my passion for coding and my hobby. Sailing isn't about luxury yachts, millionaires, and glamour—I'm breaking stereotypes here. Instead:
+
+It takes a desire to try, learn, and train.
+Adaptation to different and tough conditions is essential.
+Self-discipline is crucial for achieving higher accuracy in team performance.
+Knowledge transfer is integral.
+Setting new goals and pursuing them while enjoying the process.
 
 
